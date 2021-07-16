@@ -1,4 +1,4 @@
 package com.example.contactactivity
 
-data class names(var Name:String, var Email:String, var PhoneNumber:String
+data class names(var Name:String, var Email:String, var PhoneNumber:String, var imageUrl:String,
 )
